@@ -1,10 +1,12 @@
 # LCSC
 **TEST ONLY**
+
 **Effectively abandoned due to performance limits.**
+
 **Might've been a different story with a GPU in the mix...**
 
 
-**
+
 Self-hosted Open WebUI + SearXNG + Redis + Ollama on a single server.
 Local inference only (gemma4:e2b, CPU). No external API calls.
 
